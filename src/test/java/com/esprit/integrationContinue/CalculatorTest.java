@@ -12,7 +12,7 @@ import org.junit.Test;
 
 import com.esprit.integrationContinue.Test.Calculator;
 
-import com.esprit.integrationContinue.model.Developper;
+
 
 public class CalculatorTest {
 	Calculator calculator = new Calculator();
