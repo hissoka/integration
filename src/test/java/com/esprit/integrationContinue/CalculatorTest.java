@@ -48,6 +48,8 @@ public class CalculatorTest {
 		assertTrue(calculator.addDevelopper(1,"Issam","Benbelgace","Ariana","JAVA/JEE"));
 		assertTrue(calculator.addDevelopper(1,"Ahmed","Bouhlel","Soussa","ASP.Net"));
 		assertTrue(calculator.addDevelopper(1,"Slim","BK","Ariana","Angularjs"));
+		assertTrue(calculator.addDevelopper(1,"salma","andoulsi","zahra","ASP.Net"));
+		assertTrue(calculator.addDevelopper(1,"amal","khmiri","Ariana","Angularjs"));
 	}
 
 	@Test
